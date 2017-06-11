@@ -138,6 +138,8 @@ aside {
             background-color: white;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
+                margin-left:0;
+                margin-top:0;
                 color: $theme-primary;
                 font-size: 14px;
                 &:hover,

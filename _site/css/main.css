@@ -41,6 +41,10 @@ p {
 .bg-primary {
   background-color: #3b5998; }
 
+.bg-primary1 {
+  background-color: lightgray;
+  color: #000; }
+
 .bg-dark {
   background-color: #222;
   color: white; }
